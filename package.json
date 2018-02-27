@@ -1,0 +1,21 @@
+{
+  "name": "grafana-to-elk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.18.0",
+    "koa-await-breakpoint": "1.1.0",
+    "lodash": "4.17.5",
+    "logstash-client": "1.1.1",
+    "mongolass": "4.1.3",
+    "node-statsd": "0.1.1",
+    "paloma": "1.1.5"
+  }
+}
